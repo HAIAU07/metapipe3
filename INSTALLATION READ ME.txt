@@ -1,5 +1,12 @@
+<<<<<<< HEAD
 Inside this folder's textfield, type cmd and enter.
 
 Run following text inside Command Panel to install both Free and Studio Version:
 
+=======
+Inside this folder's textfield, type cmd and enter.
+
+Run following text inside Command Panel to install both Free and Studio Version:
+
+>>>>>>> c500f3a440c0f466d652b3fd401ac5a082d43541
 python metapipe.py

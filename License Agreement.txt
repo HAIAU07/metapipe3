@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Metapipe Tool 
 
 End User Licence Agreement 
@@ -476,4 +477,484 @@ Any act by Metapipe to exercise, or failure or delay in exercise of, any of its 
 
 You agree that this Agreement does not confer any rights or remedies on any person other than the parties to this Agreement, except as expressly stated. 
 
+=======
+Metapipe Tool 
+
+End User Licence Agreement 
+
+
+
+This End User Agreement applies to all downloadable products including “Metapipe Character Customization and Rigging Tool” and professional services (e.g. 3D models, tutorials, mentorships, personal training) sold via the Arts and Spells or Artstation Marketplace. All rights and copyrights of the Metapipe Tool mentioned in this agreement belong to Arts and Spells Software Technologies Incorporate Company (Arts and Spells Yazılım Teknolojileri A.Ş., as original legal name). In this contract; Arts and Spells Software Technologies Incorporate Company is the licensee, creator and holder of all rights of the Metapipe product/tool. 
+
+The EULA is an agreement between the buyer and the seller (Arts and Spells Software Technologies Incorporate Company) providing the goods or services. 
+
+
+
+PLEASE READ THIS DOCUMENT CAREFULLY. IT SIGNIFICANTLY ALTERS YOUR LEGAL RIGHTS AND REMEDIES. BY CLICKING “I AGREE” OR DOWNLOADING OR USING THE DIGITAL PRODUCT OR RECEIVING THE PROFESSIONAL SERVICES TO WHICH THIS AGREEMENT RELATES YOU ACCEPT ALL OF THIS AGREEMENT’S TERMS, INCLUDING THE DISCLAIMERS OF WARRANTIES AND LIMITATIONS ON DAMAGES, USE AND TRANSFERABILITY. IF YOU DO NOT ACCEPT THIS AGREEMENT’S TERMS, DO NOT DOWNLOAD, INSTALL OR USE THE DIGITAL PRODUCT OR RECEIVE OR USE THE PROFESSIONAL SERVICES. 
+
+
+
+This end-user agreement (“Agreement”) is a legally binding agreement between you, the licensee and customer (“you” or “your”), and the provider (“we” or “us” or “our”) of the digital products (“Products”) or instructional, training, mentorship or other professional service packages (“Professional Services”) that you purchase Metapipe Character Customization and Rigging Tool through the ArtStation or Arts and Spells Marketplace, regarding your rights and obligations regarding those Products and Professional Services.  
+
+
+
+1. Your Legal Status 
+
+
+
+In this Agreement, “you” means the person or entity acquiring rights in the Products or purchasing Professional Services. That may be a natural person, or a corporate or business entity or organization. This agreement is made between you and Arts and Spells Software Technologies Incorporate Company and is legally binding. 
+
+(a) If you are a natural person then you must be, and you confirm that you are, at least 13 years old. If you are between 13 years and the age of majority in your jurisdiction of residence, you confirm that your parent or legal guardian has reviewed and agrees to this Agreement and is happy for you to access and use the Product or receive the Professional Services. 
+
+
+
+(b) If you are a corporate entity then: (i) the rights granted under this Agreement are granted to that entity; (ii) you represent and warrant that the individual completing and accepting this Agreement is an authorized your representative and has the authority to legally bind that you to the Agreement; and (iii) to the extent that one or more of your employees are granted any rights in the Product or to receive Professional Services under this Agreement, you will ensure that your employees comply with this Agreement and you will be responsible and liable for any breach of this Agreement by any employee. 
+
+
+
+2. What’s Metapipe? 
+
+
+
+(a) Metapipe is a character customization and rigging tool works together with Epic Game’s Metahuman System, developed by Arts and Spells Software Technologies Incorporate Company.  
+
+
+
+(b) You acknowledge and agree that Epic is a third-party beneficiary of this Agreement and therefore will be entitled to directly enforce and rely upon any provision in this Agreement that confers a benefit on, or rights in favour of, Epic. In addition, you authorize Epic to act as your authorized representative to file a lawsuit or other formal action against a licensor in a court or with any other governmental authority if Epic knows or suspects that a licensor breached any representations or warranties under this Agreement. The foregoing authorization is nonexclusive, and Epic shall be under no obligation to pursue any claim. Epic will not initiate any such action on your behalf without first consulting with and obtaining your approval. You can read and be informed about Epic Games' privacy policy here https://www.epicgames.com/privacypolicy 
+
+
+
+3. Product Licence 
+
+
+
+(a) Subject to this Agreement’s terms and conditions, we hereby grant you a limited, non-exclusive, worldwide, non-transferable right and licence to (which will be perpetual unless the licence terminates as set out in this Agreement): (a) download the Product; and (b) copy and use the Product. We reserve all rights not expressly granted to you under this Agreement.  
+
+
+
+(b) Metapipe reserves the rights regarding malicious use of the license. 
+
+
+
+(c) The Metapipe user, will be responsible for the working principles, copyrights and user agreements of the partnered companies in joint work and development with other companies for the improvement of the Tool or for other reasons. 
+
+
+
+4. Licence Scope and Restrictions 
+
+
+
+(a) Licence Usage 
+
+
+
+You are purchasing ONE licence to create ONE copy of the Product for use by you only (or, if you are a corporate entity, for use by a single authorized employee). If it is a company that employs more than two workers or has an annual turnover of more than 100,000 USD, it must obtain a commercial Company license. Companies mentioned in this article (with at least two employees and an annual turnover of over 100,000 USD) cannot purchase a retail license, even for trial purposes. For this, they must use a trial license. 
+
+
+
+(b) Refund 
+
+
+
+In the case described above, if it is determined that a company has obtained a personal license, the parties either agree within 14 days to switch to commercial use with an appropriate price increase and payment of compensation, or the license is terminated unilaterally by Arts and Spells, without prejudice to compensation and commercial rights. In this case, Arts and Spells will not provide any refund. 
+
+
+
+In commercial purchases, the logo and name of the purchasing company may be displayed in Metapipe's visuals, on the website, in various images, videos and in areas showing its portfolio. By signing this contract, the purchasing company accepts this in commercial purchases. 
+
+
+
+If this Product is bundled with a stock digital asset, then you receive a limited personal use licence regarding that stock digital asset, and you may use that stock digital asset for your personal use only. You will not use that stock digital asset in any commercial manner unless you purchase a separate commercial licence. Free versions may never be used for commercial purposes. 
+
+
+
+If an effective feature does not work to fulfill its purpose during the use of the Tool, and if the user's problem is not resolved within 1 week despite the necessary feedback being given to Arts and Spells Team on Discord Support, a refund can be made. Other than this, no refund will be given under any circumstances. 
+
+
+
+(d) Installable Tools 
+
+
+
+You may purchase one or more licences for the Product. A single licence allows you to install the Product on a single computer at a time for use by a single authorized user. If you are a corporate entity and the authorized employee completing the transaction on your behalf purchases multiple licences, you may choose to store the Product on a single server or shared hard drive for use by a single authorized employee at a time for each licence purchased. However, as stated in the rest of the agreement, a single license can only be used by one employee and malicious use is prevented. 
+
+
+
+Provided that you comply with the restrictions on users set out above, you may use the Product on an unlimited number of projects. 
+
+
+
+Metapipe will not guarantee the performance and service of trial and trial versions, or support during and after use. There are differences between the purchased versions of the Tool and the free versions. 
+
+
+
+(e) Stock Assets 
+
+
+
+Subject to the restrictions set out in this Agreement, you may copy, use, modify, adapt, translate, publicly display, transmit, broadcast, and create derivative works from the Product in works you create (“Works”), which may include things like films, videos, multi-media projects, computer games, models, images, publications, broadcasts, documents, and presentations. 
+
+
+
+The sale of MetaHumans, their commercial use, and similar misuse through the Metapipe tool is strictly prohibited. If such a situation is detected, the user will be banned indefinitely by support. The use of MetaHumans can only be used in the user's own projects and works. 
+
+
+
+If you are a corporate entity, you may make the Product available for use by your employees in accordance with this Agreement (for example, by storing the Product on a network server). 
+
+
+
+You may only share the Product with external people or entities where: 
+
+
+
+You are collaborating with the external parties in the creation of your Work and you need to share the Product for that purpose, provided that any external party that receives the Product may only use it in your Work and must secure and limit access to the Product for that purpose; 
+
+You are working as a contractor for a client in the creation of a Work and need to share the Product with your client, or any external parties working with your client, provided that your client and any such external parties may use the Product only for your client’s Work, and all parties secure and limit access to the Product for that purpose. 
+
+
+
+For any other use of the Product by any other party, that party must purchase a licence to the Product. 
+
+
+
+In addition to any other restrictions in this Agreement, you will not: 
+
+publish, sell, license, offer or make available for sale or licensing, or otherwise distribute the Product except as part of a Work or through a form of sharing that is authorized in this Agreement; or 
+
+publish, distribute or make available the Product through any online clearinghouse platform. 
+
+
+
+5. How Does Metapipe Work? What Does It Offer You? 
+
+
+
+(a) Metapipe; application/tool works together with the product called MetaHuman, whose patent and usage rights belong to Epic Games. Users can make changes to their MetaHumans through the tool by using Epic Game’s DNA Calibration codes and automated rigging algorithms of Metapipe inside and outside of Autodesk Maya. These changes are made and used by the user of the application; It is entirely the responsibility of the user in terms of the terms of use, user agreement and other legal terms determined by Epic Games, Metahuman EULA and DNA Calibration License Agreement. 
+
+
+
+(b) Metapipe and the services and products it provides; It has no responsibility for the development of MetaHumans or for decisions that may be taken unilaterally by Epic games. Namely; The application offered by Metapipe allows customization of MetaHuman owned only by the Metahuman user. Apart from this, Metapipe is not responsible in cases where MetaHumans become paid for in the future, are completely eliminated, or are made to fundamental changes. In such a case, the user will not be able to request a refund or other compensation from Metapipe. 
+
+
+
+Metapipe will be able to collaborate commercially with other companies or individuals, including the development of the tool. In this sense, Metapipe and Arts and Spells reserve the right to make positive or negative changes that may occur in the general features of the tool. This does not give the user the right to claim compensation or refund. In contracts made with such third parties and companies to which Arts and Spells and Metapipe are parties, users must comply with the user notifications, manifestos and rules of the other party. 
+
+
+
+(c) The limits of what the service and application provided by Metapipe can do are within the limits set by Epic Games. The application may not be capable of providing any changes beyond these limits and this cannot be guaranteed by Metapipe. Users are responsible for complying with MetaHuman and DNA Calibration rules. The rules specified in the MetaHuman and DNA Calibration user agreements are fully binding on the users. The user will be responsible if the service and application provided by Metapipe is used outside of these rules and agreements. 
+
+
+
+(d) If there is a change in Epic Games' license terms or if the application violates these license terms, Metapipe may unilaterally make changes to the application. Restrictions to be applied by Epic Games, fundamental changes and changes to the application in matters that Metapipe must strictly comply with will be considered mandatory. Metapipe is not responsible for any damages or data loss resulting from these changes. These apply in all cases that affect product features, including when advertised features become unavailable during the marketing of the product, when Epic Games prohibits or prevents the use of third-party software. Metapipe is not liable for any compensation in such a case. 
+
+
+
+(e) 3D Models, Topologies, Character Templates and any other related products or designs made and sold seperately by Arts and Spells are not MetaHuman. However, they can transform into MetaHuman by using only Metapipe. 
+
+
+
+(f) Metapipe is not responsible for any problems that the user (commercial or individual) may encounter due to computer hardware while using the tool. Each user is responsible for the hardware that will enable the tool to operate efficiently. 
+
+
+
+6. Additional Restrictions 
+
+
+
+Except as expressly permitted under this Agreement, you will not: 
+
+
+
+(a) make any copy of the Product except for archival or backup purposes; 
+
+
+
+(b) circumvent or disable any access control technology, security device, procedure, protocol, or technological protection mechanism that may be included or established in or as part of the Product; 
+
+
+
+(c) hack, reverse engineer, decompile, disassemble, modify or create derivative works of the Product or any part of the Product; 
+
+
+
+(d) publish, sell distribute or otherwise make the Product available to others to use, download or copy; 
+
+
+
+(e) transfer or sub-license the Product or any rights under this Agreement to any third party, whether voluntarily or by operation of law; 
+
+
+
+(f) use the Product for any purpose that may be defamatory, threatening, abusive, harmful or invasive of anyone’s privacy, or that may otherwise violate any law or give rise to civil or other liability; 
+
+
+
+(g) misrepresent yourself as the creator or owner of the Metapipe; 
+
+
+
+(h) remove or modify any proprietary notice, symbol or label in or on the Product; 
+
+
+
+(i) directly or indirectly assist, facilitate or encourage any third party to carry on any activity prohibited by this Agreement. 
+
+
+
+(j) 3D Models, designs, intellectual products and topologies (the points, lines and surfaces that make up the model) made by Arts and Spells belong entirely to Arts and Spells. These can be used within the Tool, but cannot be sold, shared or copied in any way for commercial purposes. 
+
+
+
+(k) This License Agreement does not grant you any right, title or interest in the trademarks, service marks, trade names, and logos associated with Epic, Epic’s games and other intellectual property, including Metapipe. 
+
+
+
+(l) One purchased license can only be used on one computer. It is not possible to switch from one computer to another while using the license. Although the user has the right to reset the license, Arts and Spells decides whether this is appropriate or not. If the user has a valid reason, notifies Arts and Spells. Resetting too frequently or similar actions are considered malicious. 
+
+
+
+7. Proprietary Rights 
+
+
+
+The Product is protected by copyright laws and international copyright treaties, as well as other intellectual property laws and treaties. You are licensing the Product and the right to access, install and use the Product in accordance with this Agreement, not buying the Product and its copyrights. As between you and us, we own all right, title and interest in and to the Product, and you are not acquiring any ownership of or rights in the Product except the limited rights granted under this Agreement. 
+
+
+
+8. No Epic Support 
+
+
+
+You acknowledge and agree that you are licensing the Product from us (the Provider), not from Epic, and that Epic has no obligation to support the Product. Metapipe does not have any maintenance or support obligations with respect to MetaHuman Technology, nor does Metapipe have any obligation to continue to make MetaHuman Technology available for access or use. 
+
+
+
+9. Interruptions and Errors 
+
+Your use of the Product might be interrupted and might not be free of errors. Metapipe cannot guarantee you this under any circumstances. Such interruptions or problems may also be caused by Epic or MetaHuman. 
+
+
+
+10. Updates 
+
+We have no obligation to update the Product. 
+
+
+
+11. Provision of Professional Services 
+
+
+
+(a) We will provide the Professional Services directly to you and, subject to this Agreement, will assume all responsibility for all aspects of the Professional Services. We represent and warrant that we have the right to offer and provide the Professional Services and that we have appropriate qualifications and experience to provide the Professional Services. 
+
+
+
+(b) General use and effective use of the Tool by the user may occur within a certain period. A reason such as the program cannot be used for this reason cannot be considered reasonable. This period may vary from user to user. 
+
+
+
+It may take some time to adapt to the use of Metapipe and its tools, menu dynamics and the working principles of the program. This time may vary depending on the user's own abilities, hardware and computer he uses, and the time spend with program. 
+
+
+
+12. Support 
+
+
+
+(a) There is a Discord support service, but Arts and Spells is not obliged to provide this service under all circumstances. In future applications, this service may be terminated completely. Arts and Spells is not responsible for any opinions or other facts reported to Support. Since there is no confidentiality agreement between the parties, no legal liability will arise for the parties in similar or identical situations. 
+
+
+
+(b) In cases of non-compliance with server rules or Epic's user agreement, support may ban the user. In this case, support does not have to be given. 
+
+
+
+13. Epic is not Involved 
+
+
+
+You acknowledge and agree that: 
+
+
+
+(a) this Agreement (and any dispute under it) is an agreement between us and you only, and not with Epic, and Epic is not a party to this Agreement; 
+
+
+
+(b) we are not Epic’s employee, agent or subcontractor; 
+
+
+
+(c) Epic does not have any obligation to attempt to resolve any dispute between us and you; and 
+
+
+
+(e) we will provide the Professional Services directly to you, and we (and not Epic) are solely responsible for the Professional Services, and Epic has no obligation or liability to you with respect to the Professional Services. 
+
+
+
+14. Disclaimer 
+
+
+
+ANY PRODUCTS OR PROFESSIONAL SERVICES ARE PROVIDED ON AN “AS IS” AND “AS AVAILABLE” BASIS, WITHOUT ANY REPRESENTATIONS, WARRANTIES OR CONDITIONS OF ANY KIND. 
+
+
+
+NEITHER WE/ARTS AND SPELLS SOFTWARE TECHNOLOGIES INCORPORATE COMPANY/Metapipe NOR ANY OF THE METAHUMAN PARTIES REPRESENT OR WARRANT THAT: (A) ANY PRODUCT OR PROFESSIONAL SERVICE IS ACCURATE, COMPLETE, RELIABLE, CURRENT OR ERROR-FREE; (B) ANY PRODUCT OR PROFESSIONAL SERVICE WILL MEET YOUR REQUIREMENTS OR EXPECTATIONS; (C) ANY DEFECTS IN ANY PRODUCT OR PROFESSIONAL SERVICE WILL BE CORRECTED. 
+
+
+
+15. Exclusion and Limitation of Liability 
+
+
+
+(a) YOU DOWNLOAD, INSTALL AND OTHERWISE USE ALL PRODUCTS, AND RECEIVE AND USE ALL PROFESSIONAL SERVICES, AT YOUR OWN RISK. YOU AGREE TO, AND HEREBY DO: 
+
+
+
+WAIVE ANY CLAIMS THAT YOU MAY HAVE AGAINST ARTS AND SPELLS SOFTWARE TECHNOLOGIES JOINT STOCK COMPANIES/Metapipe OR THE EPIC PARTIES OR OUR RESPECTIVE DIRECTORS, OFFICERS, EMPLOYEES, AGENTS, REPRESENTATIVES, LICENSORS, SUCCESSORS AND ASSIGNS (COLLECTIVELY THE “RELEASEES”) ARISING FROM OR RELATING TO ANY PRODUCTS OR PROFESSIONAL SERVICES, AND 
+
+
+
+RELEASE THE RELEASEES FROM ANY LIABILITY FOR ANY LOSS, DAMAGE, EXPENSE OR INJURY ARISING FROM OR RELATING TO YOUR USE OF ANY PRODUCT OR PROFESSIONAL SERVICE, WHETHER ARISING IN TORT (INCLUDING NEGLIGENCE), CONTRACT OR OTHERWISE, EVEN IF THE RELEASEES ARE EXPRESSLY ADVISED OF THE POSSIBILITY OF SUCH LOSS, INJURY OR DAMAGE AND EVEN IF THAT LOSS, INJURY OR DAMAGE IS FORESEEABLE. 
+
+
+
+(b) NEITHER WE; ARTS AND SPELLS SOFTWARE TECHNOLOGIES INCORPORATE COMPANY/Metapipe NOR THE EPIC PARTIES WILL BE LIABLE FOR ANY LOSSES, DAMAGES, CLAIMS OR EXPENSES THAT CONSTITUTE: (I) LOSS OF INTEREST, PROFIT, BUSINESS, CUSTOMERS OR REVENUE; (II) BUSINESS INTERRUPTIONS; (III) COST OF REPLACEMENT PRODUCTS OR SERVICES; OR (IV) LOSS OF OR DAMAGE TO REPUTATION OR GOODWILL. 
+
+
+
+(c) NEITHER WE; ARTS AND SPELLS SOFTWARE TECHNOLOGIES INCORPORATE COMPANY/ Metapipe NOR THE EPIC PARTIES WILL BE LIABLE FOR ANY LOSSES, DAMAGES, CLAIMS OR EXPENSES THAT CONSTITUTE INCIDENTAL, CONSEQUENTIAL, SPECIAL, PUNITIVE, EXEMPLARY, MULTIPLE OR INDIRECT DAMAGES, EVEN IF WE HAVE BEEN ADVISED OF THE POSSIBILITY OF SUCH LOSSES, DAMAGES, CLAIMS OR EXPENSES. 
+
+
+
+(d) MAXIMUM LIABILITY: SINCE ARTS AND SPELLS SOFTWARE TECHNOLOGIES INCORPORATE COMPANY/Metapipe IS NOT A DIRECT SERVICE PROVIDER OF METAHUMAN, IT DOES NOT HAVE ANY RESPONSIBILITY IN THIS SENSE.  
+
+
+
+16. Indemnity 
+
+
+
+As a condition of your use of any Product or any Professional Services, you agree to hold harmless and indemnify the Releasees from any liability for any loss or damage to any third party resulting from your access to, installation or use of the Product or your receipt and use of the Professional Services. 
+
+
+
+17. Term and Termination 
+
+
+
+This agreement is valid until termination by the parties or until the end of the license period. Metapipe reserves the right to terminate immediately in case of abusive use. Your rights under this Agreement will terminate automatically without notice if: (a) you breach any terms of this Agreement; or (b) you do not complete payment for the Product or Professional Services, or any payment you make is refunded, reversed or cancelled for any reason. Upon this Agreement’s termination, you will cease all use of the Product and destroy all copies, full or partial, of the Product in your possession.  
+
+
+
+18. Compliance with Laws 
+
+
+
+You will comply with all applicable laws when using any Product or Professional Services (including intellectual property and export control laws). 
+
+
+
+19. Entire Agreement 
+
+
+
+This Agreement supersedes all prior agreements of the parties regarding the Product or Professional Services, and constitutes the whole agreement with respect to the Product or Professional Services. Metapipe has the right to make unilateral changes to the contract articles. 
+
+
+
+20. Disputes 
+
+
+
+If you have any concerns about the Product or Professional Services, please contact us through our Metapipe Marketplace account and we will work with you to try to resolve the issue. You acknowledge and agree that any such dispute is between you and us, and that Epic will not be involved in the dispute and has no obligation to try to resolve the dispute. 
+
+
+
+21. Persons Bound 
+
+
+
+This Agreement will enure to the benefit of and be binding upon the parties and their heirs, executors, administrators, legal representatives, lawful successors and permitted assigns. 
+
+
+
+22. Assignment 
+
+
+
+We may assign this Agreement without notice to you. We also have the right to transfer Metapipe materials and our contractual responsibilities on a commercial basis. 
+
+
+
+You may not assign this Agreement or any of your rights under it without our prior written consent, which we will not withhold unreasonably. 
+
+
+
+23. Waiver 
+
+
+
+No waiver, delay, or failure to act by us regarding any particular default or omission will prejudice or impair any of our rights or remedies regarding that or any subsequent default or omission that are not expressly waived in writing. 
+
+
+
+24. Applicable Law and Jurisdiction 
+
+
+
+Since Arts and Spells is located in the Turkey, this agreement is governed by the laws of Turkey. Apart from this, you are also responsible in terms of local and international law and you acknowledge this.
+
+
+
+25. Severability 
+
+ 
+
+If any provision of this Agreement shall be held or made invalid by a court decision, statute or rule, or shall be otherwise rendered invalid, the remainder of this Agreement shall not be affected thereby. 
+
+
+
+
+26. Legal Effect 
+
+
+
+This Agreement describes certain legal rights. You may have other rights under the laws of your country. This Agreement does not change your rights under the laws of your country if the laws of your country do not permit it to do so. 
+
+
+
+27. Interpretation 
+
+
+
+In this Agreement, "we", "us", and "our" refer to the licensor of the Product alone and never refer to the combination of you and that licensor (that combination is referred to as "the parties"), or the combination of you or the licensor with Epic. 
+
+
+28. Miscellaneous 
+
+
+
+This Agreement constitutes the entire agreement between you and Arts and Spells relating to the subject matter covered by this Agreement. All other communications, proposals, and representations with respect to the subject matter covered by this Agreement are excluded. 
+
+
+
+The original of this Agreement is in English; any translations are provided for reference purposes only. You waive any right you may have under the law of your country to have this Agreement written or construed in the language of any other country. 
+
+
+
+This Agreement describes certain legal rights. You may have other rights under the laws of your jurisdiction. This Agreement does not change your rights under the laws of your jurisdiction if the laws of your jurisdiction do not permit it to do so. Limitations and exclusions of warranties and remedies in this Agreement may not apply to you because your jurisdiction may not allow them in your particular circumstance. In the event that certain provisions of this Agreement are held by a court or tribunal of competent jurisdiction to be unenforceable, those provisions shall be enforced only to the furthest extent possible under applicable law and the remaining terms of this Agreement will remain in full force and effect. 
+
+
+
+Any act by Metapipe to exercise, or failure or delay in exercise of, any of its rights under this Agreement, at law or in equity will not be deemed a waiver of those or any other rights or remedies available in contract, at law or in equity. 
+
+
+
+You agree that this Agreement does not confer any rights or remedies on any person other than the parties to this Agreement, except as expressly stated. 
+
+>>>>>>> c500f3a440c0f466d652b3fd401ac5a082d43541
 Metapipe’s obligations are subject to existing laws and legal process, and Metapipe may comply with law enforcement or regulatory requests or requirements despite any contrary term in this Agreement.
