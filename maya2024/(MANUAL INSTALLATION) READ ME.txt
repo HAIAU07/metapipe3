@@ -1,0 +1,30 @@
+READ ME
+
+INSTALLATION OF METAPIPE 2
+
+
+
+
+
+
+1 - DNA CALIBRATION INSTALLATION (Pleasse check the Pre-Setup Video in Youtube) LINK: https://youtu.be/5xu-b_A8HBc?si=gkoRvHBh3zVxSZwP
+
+2 - EMBEDED RL 4 CODE SETUP (Pleasse check the Pre-Setup Video in Youtube) LINK: https://youtu.be/5xu-b_A8HBc?si=gkoRvHBh3zVxSZwP
+
+3 - COPY ALL FILES TO "C:\Arts and Spells\Metapipe Studio 2.3.0"
+
+4 - COPY Body_Prep.py FILE TO "C:\Arts and Spells\Scripts"
+
+4 - COPY "shelf_Metapipe2" FILE TO "YOUR PATH\Documents\maya\2023\prefs\shelves" (If doesn't exists, please find your Maya Shelf location)
+
+5 - To work with DNA please setup Free Version of Metapipe as well.
+
+
+
+
+
+
+
+AND THAT'S IT!
+
+YOU CAN DIRECTLY RUN IT INSIDE SHELF

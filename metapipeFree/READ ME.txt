@@ -1,0 +1,42 @@
+READ ME
+
+How to setup:
+
+
+AUTO INSTALL:
+
+Inside textfield of the folder, type cmd and inside Command Panel run following line:
+
+python freeInstaller.py
+
+
+MANUAL INSTALL:
+
+
+IF YOU ARE USING METAPIPE already, ONLY DO THE 3rd and 4th STEPS!
+
+
+
+
+#1 - Download Epic Game's Dna Calibration "VERSION" 1.1.0 from "github.com/EpicGames/MetaHuman-DNA-Calibration"
+
+#2 - Set the file path to C:\dna_calibration (Recommended) or desired place. Don't forget the path.
+
+#3 - Unzip rar file inside "c:/Arts and Spells" folder. Final folder will be "c:/Arts and Spells/Metapipe Free 2.0.0"
+
+#4 - Copy Paste The Code Below To The Shelf Editor Command or Run through script editor (Choose Python Tab)
+
+import importlib
+import sys
+import maya.cmds as cmds
+sys.path.append("c:/Arts and Spells/Metapipe Free 2.0.0")
+import MetaPipeFreeBeta
+importlib.reload(MetaPipeFreeBeta)
+MetaPipeFree2.mFree_window()
+
+
+#5 - "Documents\Megascans Library\support\plugins\maya\7.0\MSLiveLink\DHI\plugins\Windows\2023" (7.0 is current MSLiveLink Version it may change)  Go to this path and copy embeddedRL4.mll file
+
+#6 - Create a folder named "plug-ins" in "Documents/Megascans Library/support/plugins/maya/7.0/MSLiveLink/" and past the file inside it.
+
+#7 - Run the code! Enjoy! Please ask if there is any problem on Artstation or Discord...

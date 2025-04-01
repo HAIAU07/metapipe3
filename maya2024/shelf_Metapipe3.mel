@@ -1,0 +1,41 @@
+global proc shelf_Metapipe3 () {
+    global string $gBuffStr;
+    global string $gBuffStr0;
+    global string $gBuffStr1;
+
+
+    shelfButton
+        -enableCommandRepeat 1
+        -flexibleWidthType 3
+        -flexibleWidthValue 32
+        -enable 1
+        -width 35
+        -height 34
+        -manage 1
+        -visible 1
+        -preventOverride 0
+        -annotation "User Script" 
+        -enableBackground 0
+        -backgroundColor 0 0 0 
+        -highlightColor 0.321569 0.521569 0.65098 
+        -align "center" 
+        -label "Metapipe3" 
+        -labelOffset 0
+        -rotation 0
+        -flipX 0
+        -flipY 0
+        -useAlpha 1
+        -overlayLabelColor 0.8 0.8 0.8 
+        -overlayLabelBackColor 0 0 0 0.5 
+        -image "C:/Arts and Spells/Metapipe Studio 3.0.0/Icons/Metapipe3Icon.png" 
+        -image1 "C:/Arts and Spells/Metapipe Studio 3.0.0/Icons/Metapipe3Icon.png" 
+        -style "iconOnly" 
+        -marginWidth 0
+        -marginHeight 1
+        -command "MT_PATH = \"c:/Arts and Spells/Scripts\"\nimport sys\nsys.path.append(MT_PATH)\nimport mt\nimport importlib\nimportlib.reload(mt)\nfrom mt import mt\nexec(mt)" 
+        -sourceType "python" 
+        -commandRepeatable 1
+        -flat 1
+    ;
+
+} 

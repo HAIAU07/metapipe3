@@ -1,0 +1,5 @@
+ROOT_DIR = "c:/dna_calibration"
+MAIN_PATH = "c:/Arts and Spells/Scripts"
+MAYA_VERSION = "2023"
+dnaPath= "C:/Users/Uzay/Documents/Megascans Library/Downloaded/DHI/h344NMUV_asset/1k/asset_source/MetaHumans/CustomDNA/SourceAssets/CustomDNA.dna"
+body_type = "m_med_nrw"

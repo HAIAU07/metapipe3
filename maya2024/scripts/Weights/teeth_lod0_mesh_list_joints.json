@@ -1,0 +1,8 @@
+{
+    "teeth_lod0_mesh": [
+        "DHIbody:neck_02",
+        "DHIbody:head",
+        "FACIAL_C_FacialRoot",
+        "FACIAL_C_Jaw"
+    ]
+}

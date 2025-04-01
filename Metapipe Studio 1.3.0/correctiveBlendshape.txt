@@ -1,0 +1,41 @@
+python("import sys");
+string $selected[] = `ls -selection`;
+global proc performExtractDeltas()
+{
+	string $sel[] = `ls -sl -tr`;
+	string $shapes[];
+	for ($s in $sel)
+	{
+		$shapes = `listRelatives -s $s`;
+		for ($sh in $shapes)
+		{
+			if (`nodeType $sh` != "mesh")
+			{
+				error "The selected geometry is no polygon object!";
+			}
+		}
+	}
+	if (size($sel) == 2)
+	{
+		$shapes = `listRelatives -s $sel[0]`;
+		string $skin[] = `listConnections -type "skinCluster" $shapes[0]`;
+		if (!`size($skin)`)
+		{
+			error "The first selected object is not bound to a skin cluster!";
+		}
+	}
+	else
+	{
+		error "Please select two polygonal objects!";
+	}
+	extractDeltas -s $sel[0] -c $sel[1];
+}
+
+performExtractDeltas();
+select -r $selected[1];
+python("import importlib");
+python("sys.path.append('c:/Arts and Spells/Scripts')");
+python("import bsIndex");
+python("importlib.reload(bsIndex)");
+python("bsIndex.calc()");
+//delete;
